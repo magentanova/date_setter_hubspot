@@ -1,0 +1,24 @@
+{
+  "name": "date_setter_hubspot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magentanova/date_setter_hubspot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magentanova/date_setter_hubspot/issues"
+  },
+  "homepage": "https://github.com/magentanova/date_setter_hubspot#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0",
+    "superagent": "^5.1.0"
+  }
+}
