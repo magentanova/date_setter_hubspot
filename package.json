@@ -18,7 +18,7 @@
   "homepage": "https://github.com/magentanova/date_setter_hubspot#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "superagent": "^5.1.0"
   }
 }
